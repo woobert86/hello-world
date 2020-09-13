@@ -1,2 +1,6 @@
 # hello-world
-just a test for Lab1 IS1003 @UTSA
+
+Hello World!
+
+Alex Woo here, my facorite type of music is heavy metal.
+my favorite food is pizza (kind of common for a lot of poeple)
